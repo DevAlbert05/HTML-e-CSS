@@ -1,0 +1,21 @@
+header ul {
+    display: flex;
+    padding: 20px;
+    background-color: #ccc;
+    list-style: none;
+   
+}
+
+header ul li {
+    margin-right: 15px;
+    list-style: none;
+    
+  
+}
+header li a {
+    text-decoration: none;
+}
+
+mark {
+    background-color: #ccc;
+}

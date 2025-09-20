@@ -1,0 +1,76 @@
+html {
+    background-color: #9c3e3e;
+    font-family: Helvetica;
+}
+
+.container {
+    max-width: 1100px;
+    background-color: #ccc;
+    position: relative;
+    margin: 50px auto;
+    padding: 20px 50px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+/* Header */
+
+.header {
+    text-align: center;
+}
+.main-para {
+    font-size: 40px;
+}
+.p1 {
+    font-style: italic;
+}
+
+/* Imagem de destaque */
+.img-destaque {
+    text-align: center;
+    margin-top: 30px;
+}
+/* Biografia */
+
+.biography {
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #ddd;
+    border-bottom: 1px dashed #ddd; 
+    
+}
+.citacao1 {
+    background-color: #777;
+    padding: 30px;
+}
+
+.citacao1 p {
+    font-style: italic;
+}
+.citacao1 blockquote {
+    font-weight: bold;
+    font-size: 30px;
+}
+.curiosity {
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #ddd;
+    border-bottom: 1px dashed #ddd;
+}
+
+.curiosity li {
+    height: 30px;
+}
+
+.segunda-img {
+    font-weight: bold;
+    text-align: center;
+}
+
+/*
+.vc {
+    font-style: italic;
+}
+    */
